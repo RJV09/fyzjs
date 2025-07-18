@@ -1,0 +1,9 @@
+{
+    "TOKEN": "TOKEN DAALO",
+    "MONGO_DB": "mongodb+srv://Abhishek:Abhishek@bot.fwk8dfh.mongodb.net/?retryWrites=true&w=majority&appName=Bot",
+    "cooldown": true,
+    "owner": ["1294173092234526770","171097416315961355"],
+    "admin": ["1294173092234526770","171097416315961355"],
+    "np": ["1294173092234526770","171097416315961355"],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1353743603326910515&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2Flunardevs&integration_type=0&scope=bot+guilds"
+}
